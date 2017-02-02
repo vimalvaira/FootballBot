@@ -1,0 +1,5 @@
+c:\users\vimal\documents\visual studio 2015\Projects\FootBallBot\FootBall\bin\Debug\FootBall.dll
+c:\users\vimal\documents\visual studio 2015\Projects\FootBallBot\FootBall\bin\Debug\FootBall.pdb
+c:\users\vimal\documents\visual studio 2015\Projects\FootBallBot\FootBall\obj\Debug\FootBall.csprojResolveAssemblyReference.cache
+c:\users\vimal\documents\visual studio 2015\Projects\FootBallBot\FootBall\obj\Debug\FootBall.dll
+c:\users\vimal\documents\visual studio 2015\Projects\FootBallBot\FootBall\obj\Debug\FootBall.pdb
